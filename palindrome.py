@@ -2,7 +2,7 @@ total = int(input(' Enter the no of numbers you want to find the palindrome of: 
 lst = []
 for i in range(total):
     num = int(input('Enter a number: '))
-    lst.append()
+    lst.append(num)
 
 for value in lst:
     a = value
